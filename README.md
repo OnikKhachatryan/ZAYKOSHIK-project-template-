@@ -1,70 +1,85 @@
-# Getting Started with Create React App
+#  ZaykoShik — Modern React Web App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ZaykoShik is a stylish, fully responsive React web application built to showcase UI interactivity, rich components, and user engagement tools. It serves as a creative template or personal web presence, combining cutting-edge libraries and clean design.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 🚀 Features
 
-### `npm start`
+### 🧩 UI & Interactivity
+- Beautiful hover effects and smooth animations
+- Responsive layout across all screen sizes
+- Icons, buttons, and links with dynamic styling
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### 📍 Google Maps Integration
+- Interactive Google Map embedded to show location/contact
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### 🖼️ Nuka Carousel Integration
+- Seamless image or brand logo carousel using `nuka-carousel`
+- Autoplay, navigation arrows, and center-aligned visuals
 
-### `npm test`
+### 💬 Contact Center
+- Functional contact form to collect messages from users
+- Client-side form validation included
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### 🔍 Informational Sections
+- Cleanly organized sections about the site/project/purpose
+- Stylish typography and layouts
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## ⚙️ Technologies Used
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- **React.js**
+- **JavaScript (ES6+)**
+- **HTML5 + CSS3**
+- **Google Maps API**
+- **Nuka Carousel**
+- **React Icons**
+- **Custom CSS Animations & Transitions**
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+## 📁 Folder Structure (Simplified)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+/public
+└── images/
+└── index.html
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+/src
+├── assets/
+├── pages/
+├── App.js
+├── reportWebVitals.js
+└── index.js
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 🛠️ Installation & Setup
 
-### Code Splitting
+```bash
+# Clone the repo
+git clone https://github.com/your-username/zaykoshik.git
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+# Navigate to the project folder
+cd zaykoshik
 
-### Analyzing the Bundle Size
+# Install dependencies
+npm install
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+# Run the app
+npm start
 
-### Making a Progressive Web App
+##🧠 What You’ll Learn / Showcase
+Using external APIs (Google Maps)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Implementing dynamic UI with carousels and transitions
 
-### Advanced Configuration
+Working with user input and forms
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Organizing a React project professionally
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Creating a portfolio-worthy app with real-world features
