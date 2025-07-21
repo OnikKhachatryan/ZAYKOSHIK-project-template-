@@ -1,6 +1,6 @@
 #  ZAYKOSHIK — Modern React Web App
 
-ZaykoShik is a stylish, fully responsive React web application built to showcase UI interactivity, rich components, and user engagement tools. It serves as a creative template or personal web presence, combining cutting-edge libraries and clean design.
+ZAYKOSHIK is a stylish, fully responsive React web application built to showcase UI interactivity, rich components, and user engagement tools. It serves as a creative template or personal web presence, combining cutting-edge libraries and clean design.
 
 ---
 
