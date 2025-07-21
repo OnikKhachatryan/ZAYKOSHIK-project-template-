@@ -73,13 +73,4 @@ npm install
 # Run the app
 npm start
 
-##🧠 What You’ll Learn / Showcase
-Using external APIs (Google Maps)
 
-Implementing dynamic UI with carousels and transitions
-
-Working with user input and forms
-
-Organizing a React project professionally
-
-Creating a portfolio-worthy app with real-world features
